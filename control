@@ -1,0 +1,12 @@
+Package: com.redenticdev.tinderautodm
+Name: TinderAutoDM
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Automatically send a DM to a new Tinder match
+Icon: https://redentic.dev/depictions/com.redenticdev.tinderautodm/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.tinderautodm
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.tinderautodm/sileo.json
+Maintainer: RedenticDev <hello@redentic.dev>
+Author: RedenticDev <hello@redentic.dev>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
